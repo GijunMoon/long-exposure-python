@@ -1,0 +1,1 @@
+python long_exposure.py --video PATH --output PATH
